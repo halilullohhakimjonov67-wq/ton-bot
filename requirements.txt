@@ -1,0 +1,4 @@
+oython-telegram-bot
+requests
+matplotlib
+pandas
